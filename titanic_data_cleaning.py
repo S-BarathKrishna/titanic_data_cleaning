@@ -1,16 +1,3 @@
-"""
-Titanic Dataset - Data Cleaning and Preprocessing
-Author: [Your Name]
-Purpose:
-    Acquire a public dataset, explore data quality, handle missing values,
-    check inconsistencies and outliers, and prepare the data for analysis.
-
-Dataset:
-    Titanic Passenger Dataset
-Source:
-    https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
